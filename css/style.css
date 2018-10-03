@@ -1,0 +1,22 @@
+input {
+  height: 20px;
+  width: 250px;
+}
+
+input.error {
+  border: 3px solid #c0392b;
+  outline-color: white;
+}
+
+input.success {
+  border: 3px solid #27ae60;
+  outline-color: white;
+}
+
+span.error {
+  color: #c0392b
+}
+
+span.success {
+  color: #27ae60
+}
